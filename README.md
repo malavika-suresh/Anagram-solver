@@ -70,7 +70,7 @@ Output:
 ## 🌐 Live Demo
 
 Try it instantly here:  
-https://malavika-suresh.github.io/Anagram-solver/
+https://malavika-suresh.github.io/Anagram-solver/solver.html
 
 ---
 
