@@ -93,7 +93,6 @@ The word list is public domain ([source](https://github.com/first20hours/google-
 ## 📬 Contact
 
 Created by [Malavika Suresh](https://github.com/malavika-suresh/)  
-Found a bug? Open an issue: https://github.com/yourusername/anagram-solver/issues
 
 ---
 
